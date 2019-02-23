@@ -1,4 +1,4 @@
-# _SPI OLED Example_  
+# _SPI LCD Example_  
 
 _This example uses the ESP8266 hspi Master to drive 2.7-inch SPI ILI9341, and the LCD driver chip is ILI9341. And I transplant the lvgl into the project _ 
 
