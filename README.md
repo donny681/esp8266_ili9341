@@ -1,9 +1,10 @@
 # _SPI OLED Example_  
 
-_This example uses the ESP8266 hspi Master to drive 2.7-inch SPI ILI9341, and the LCD driver chip is SSD1306._
+_This example uses the ESP8266 hspi Master to drive 2.7-inch SPI ILI9341, and the LCD driver chip is ILI9341. And I transplant the lvgl into the project _ 
 
-## How to use example  
-SDK
+## How to use example 
+1.Download sdk.
+[ESP8266 SDK](https://github.com/espressif/ESP8266_RTOS_SDK)   V3.0
 
 ### Hardware Required  
 
